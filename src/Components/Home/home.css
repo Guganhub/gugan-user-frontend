@@ -1,0 +1,14 @@
+#slider{
+  border-radius: 10px;
+}
+.header{
+    font-size: 22px;
+    font-weight: bold;
+}
+.navba{
+    background-color:#e6e6fa;
+    padding: 10px 20px;
+}
+body {
+    background-color: #e6e6fa;
+}
